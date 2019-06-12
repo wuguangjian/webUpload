@@ -17,7 +17,7 @@
 "minimum-stability": "dev", 
 "autoload": {
 "psr-4": {
-"huaweichenai\\discern\\": "src"
+"wuguangjian\\first-demo\\": "src"
 }
 }
 }
