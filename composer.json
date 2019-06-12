@@ -1,7 +1,7 @@
 { 
-"name": "wuguangjian/webUpload",
+"name": "wuguangjian/webupload",
 "description": "测试",
-"keywords": ["yii2","web","Upload","extension"],
+"keywords": ["yii2","web","upload","extension"],
 "type": "yii2-extension",
 "license": "BSD-3-Clause",
 "authors": [
