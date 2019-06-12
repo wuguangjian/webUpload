@@ -1,0 +1,21 @@
+{
+"name": "wuguangjian/webUpload",
+"description": "测试",
+"keywords": ["yii2","web","Upload","extension"],
+"type": "yii2-extension",
+"license": "BSD-3-Clause",
+"authors": [
+{
+"name": "wuguangjian",
+"email": "465257165@qq.com",
+"homepage": "https://www.xfuxiu.com/"
+}
+],
+"require": {},
+"minimum-stability": "dev",
+"autoload": {
+"psr-4": {
+"huaweichenai\\discern\\": "src"
+}
+}
+}
