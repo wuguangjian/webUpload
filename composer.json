@@ -11,7 +11,9 @@
 "homepage": "https://www.xfuxiu.com/"
 }
 ],
-"require": {},
+"require": {
+	"yiisoft/yii2-debug": "~2.1.0"
+},
 "minimum-stability": "dev",
 "autoload": {
 "psr-4": {
